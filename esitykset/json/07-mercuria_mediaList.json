@@ -1,0 +1,108 @@
+{
+  "loopMediaList": false,
+  "startMethod": "autostart-beginning",
+  "controlMediaPlayer": "elevated",
+  "configureMediaPlayer": "elevated",
+  "mediaList": [
+    {
+      "name": "mercuria_1",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/07_mercuria/Slide1.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "mercuria_2",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/07_mercuria/Slide2.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "mercuria_3",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/07_mercuria/Slide3.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "mercuria_4",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/07_mercuria/Slide4.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "mercuria_5",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/07_mercuria/Slide5.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "mercuria_6",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/07_mercuria/Slide6.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "mercuria_7",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/07_mercuria/Slide7.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "mercuria_8",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/07_mercuria/Slide8.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "mercuria_9",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/07_mercuria/Slide9.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "mercuria_10",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/07_mercuria/Slide10.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "mercuria11",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/07_mercuria/Slide11.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "mercuria12",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/07_mercuria/Slide12.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "mercuria_13",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/07_mercuria/Slide13.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "mercuria_14",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/07_mercuria/Slide14.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "mercuria_15",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/07_mercuria/Slide15.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "mercuria_16",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/07_mercuria/Slide16.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "mercuria_17",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/07_mercuria/Slide17.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "mercuria_18",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/07_mercuria/Slide18.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "mercuria_19",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/07_mercuria/Slide19.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "mercuria_20",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/07_mercuria/Slide20.JPG",
+      "skipAfter": 0
+    }
+  ]
+}

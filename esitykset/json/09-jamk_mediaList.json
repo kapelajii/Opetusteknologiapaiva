@@ -1,0 +1,163 @@
+{
+  "loopMediaList": false,
+  "startMethod": "autostart-beginning",
+  "controlMediaPlayer": "elevated",
+  "configureMediaPlayer": "elevated",
+  "mediaList": [
+    {
+      "name": "jamk_1",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide1.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_2",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide2.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_3",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide3.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_4",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide4.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_5",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide5.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_6",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide6.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_7",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide7.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_8",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide8.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_9",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide9.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_10",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide10.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_11",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide11.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_12",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide12.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_13",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide13.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_14",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide14.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_15",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide15.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_16",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide16.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_17",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide17.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_18",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide18.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_19",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide19.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_20",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide20.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_21",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide21.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_22",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide22.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_23",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide23.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_24",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide24.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_25",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide25.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_26",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide26.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_27",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide27.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_28",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide28.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_29",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide29.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_30",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide30.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "jamk_31",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/09_keynote1/Slide31.JPG",
+      "skipAfter": 0
+    }
+  ]
+}

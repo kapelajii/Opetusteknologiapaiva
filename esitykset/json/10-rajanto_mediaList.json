@@ -1,0 +1,138 @@
+{
+  "loopMediaList": false,
+  "startMethod": "autostart-beginning",
+  "controlMediaPlayer": "elevated",
+  "configureMediaPlayer": "elevated",
+  "mediaList": [
+    {
+      "name": "rajanto_1",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_01.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_2",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_02.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_3",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_03.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_4",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_04.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_5",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_05.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_6",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_06.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_7",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_07.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_8",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_08.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_9",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_09.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_10",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_10.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_11",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_11.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_12",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_12.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_13",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_13.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_14",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_14.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_15",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_15.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_16",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_16.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_17",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_17.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_18",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_18.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_19",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_19.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_20",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_20.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_21",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_21.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_22",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_22.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_23",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_23.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_24",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_24.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_25",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_25.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "rajanto_26",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/10_keynote2/rajanto_Page_26.jpg",
+      "skipAfter": 0
+    }
+  ]
+}

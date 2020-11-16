@@ -1,0 +1,38 @@
+{
+  "loopMediaList": false,
+  "startMethod": "autostart-beginning",
+  "controlMediaPlayer": "elevated",
+  "configureMediaPlayer": "elevated",
+  "mediaList": [
+    {
+      "name": "lauhanen1",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/06_lauhanen/Slide1.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "lauhanen2",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/06_lauhanen/Slide2.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "lauhanen3",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/06_lauhanen/Slide3.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "lauhanen4",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/06_lauhanen/Slide4.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "lauhanen5",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/06_lauhanen/Slide5.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "lauhanen6",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/06_lauhanen/Slide6.JPG",
+      "skipAfter": 0
+    }
+  ]
+}

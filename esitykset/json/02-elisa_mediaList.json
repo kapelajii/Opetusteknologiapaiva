@@ -1,0 +1,63 @@
+{
+  "loopMediaList": false,
+  "startMethod": "autostart-beginning",
+  "controlMediaPlayer": "elevated",
+  "configureMediaPlayer": "elevated",
+  "mediaList": [
+    {
+      "name": "elisa_1",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/02_elisa/elisa_Page_1.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "elisa_2",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/02_elisa/elisa_Page_2.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "elisa_3",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/02_elisa/elisa_Page_3.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "elisa_4",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/02_elisa/elisa_Page_4.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "elisa_5",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/02_elisa/elisa_Page_5.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "elisa_6",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/02_elisa/elisa_Page_6.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "elisa_7",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/02_elisa/elisa_Page_7.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "elisa_8",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/02_elisa/elisa_Page_8.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "elisa_9",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/02_elisa/elisa_Page_9.jpg",
+      "skipAfter": 0
+    },
+    {
+      "name": "elisa_video",
+      "videoUrl": "https://www.youtube.com/watch?v=Y8oecVmW2Rc",
+      "skipAfter": 0,
+      "volume": "0.5",
+      "startTime": 0,
+      "loop": false,
+      "rolloffStartDistance": 0,
+      "endOfVideoAction": "stop"
+    }
+  ]
+}
