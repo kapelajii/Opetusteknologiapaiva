@@ -2,15 +2,17 @@
 
 ## Media console 
 
+
 | Esitys                    | Media console             |
 | --------------------------|---------------------------|
+| Tapahtuman aloitus        | rod-island                |
 | 01- Prima Power           | puuttuu                   |
 | 02- Elisa                 | substance-went            |
-| 03- Tivia                 | puuttuu                   |
-| 04- Training4             | puuttuu                   |
-| 05- SeAMK CAD             | puuttuu                   |
-| 06- Lauhanen              | syllable-shoot            |
-| 07- Mercuria              | fly-forest                |
-| 08- Virtuaalikorjaamo     | puuttuu                   |
+| 03- Tivia                 | shore-wonderful           |
+| 04- Training4             | grown-shown               |
+| 05- Lauhanen              | syllable-shoot            |
+| 06- Mercuria              | fly-forest                |
+| 07- Virtuaalikorjaamo     | puuttuu                   |
 | 10- Keynote 1 Jamk        | kept-worker               |
-| 11- Keynote 2 Rajanto     | throw-eventually          |
+| 11- Maunumaa SeAMK        | captured-chapter          |
+| 12- Keynote 2 Rajanto     | throw-eventually          |

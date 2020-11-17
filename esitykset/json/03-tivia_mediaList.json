@@ -1,0 +1,68 @@
+{
+  "loopMediaList": false,
+  "startMethod": "autostart-beginning",
+  "controlMediaPlayer": "elevated",
+  "configureMediaPlayer": "elevated",
+  "mediaList": [
+    {
+      "name": "tivia_1",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/03_tivia/Slide1.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "tivia_2",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/03_tivia/Slide2.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "tivia_3",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/03_tivia/Slide3.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "tivia_4",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/03_tivia/Slide4.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "tivia_5",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/03_tivia/Slide5.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "tivia_6",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/03_tivia/Slide6.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "tivia_7",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/03_tivia/Slide7.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "tivia_8",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/03_tivia/Slide8.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "tivia_9",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/03_tivia/Slide9.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "tivia_10",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/03_tivia/Slide10.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "tivia_11",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/03_tivia/Slide11.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "tivia_12",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/03_tivia/Slide12.JPG",
+      "skipAfter": 0
+    }
+  ]
+}

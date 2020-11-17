@@ -1,0 +1,108 @@
+{
+  "loopMediaList": false,
+  "startMethod": "autostart-beginning",
+  "controlMediaPlayer": "elevated",
+  "configureMediaPlayer": "elevated",
+  "mediaList": [
+    {
+      "name": "maunumaa_1",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/11_maunumaa/Slide1.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "maunumaa_2",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/11_maunumaa/Slide2.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "maunumaa_3",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/11_maunumaa/Slide3.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "maunumaa_4",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/11_maunumaa/Slide4.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "maunumaa_5",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/11_maunumaa/Slide5.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "maunumaa_6",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/11_maunumaa/Slide6.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "maunumaa_7",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/11_maunumaa/Slide7.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "maunumaa_8",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/11_maunumaa/Slide8.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "maunumaa_9",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/11_maunumaa/Slide9.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "maunumaa_10",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/11_maunumaa/Slide10.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "maunumaa_11",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/11_maunumaa/Slide11.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "maunumaa_12",
+      "videoUrl": "https://youtu.be/PZr142ka96k",
+      "skipAfter": 0,
+      "volume": "0.5",
+      "startTime": 0,
+      "loop": false,
+      "rolloffStartDistance": 0,
+      "endOfVideoAction": "stop"
+    },
+    {
+      "name": "maunumaa_13",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/11_maunumaa/Slide13.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "maunumaa_14",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/11_maunumaa/Slide14.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "maunumaa_15",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/11_maunumaa/Slide15.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "maunumaa_16",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/11_maunumaa/Slide16.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "maunumaa_17",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/11_maunumaa/Slide17.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "maunumaa_18",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/11_maunumaa/Slide18.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "maunumaa_19",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/11_maunumaa/Slide19.JPG",
+      "skipAfter": 0
+    }
+  ]
+}
