@@ -6,7 +6,7 @@
 | Esitys                    | Media console             |
 | --------------------------|---------------------------|
 | Tapahtuman aloitus        | rod-island                |
-| 01- Prima Power           | puuttuu                   |
+| 01- Prima Power           | plain-eye                 |
 | 02- Elisa                 | substance-went            |
 | 03- Tivia                 | shore-wonderful           |
 | 04- Training4             | grown-shown               |

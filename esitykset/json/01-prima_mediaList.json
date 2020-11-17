@@ -1,0 +1,83 @@
+{
+  "loopMediaList": false,
+  "startMethod": "autostart-beginning",
+  "controlMediaPlayer": "elevated",
+  "configureMediaPlayer": "elevated",
+  "mediaList": [
+    {
+      "name": "prima_1",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/01_prima_power/Slide1.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "prima_2",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/01_prima_power/Slide2.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "prima_3",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/01_prima_power/Slide3.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "prima_4",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/01_prima_power/Slide4.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "prima_5",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/01_prima_power/Slide5.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "prima_6",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/01_prima_power/Slide6.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "prima_7",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/01_prima_power/Slide7.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "prima_8",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/01_prima_power/Slide8.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "prima_9",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/01_prima_power/Slide9.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "prima_10",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/01_prima_power/Slide10.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "prima_11",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/01_prima_power/Slide11.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "prima_12",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/01_prima_power/Slide12.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "prima_13",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/01_prima_power/Slide13.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "prima_14",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/01_prima_power/Slide14.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "prima_15",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/01_prima_power/Slide15.JPG",
+      "skipAfter": 0
+    }
+  ]
+}
