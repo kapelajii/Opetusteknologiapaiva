@@ -6,48 +6,49 @@
   "mediaList": [
     {
       "name": "train4_1",
-      "imageUrl": "https://github.com/kapelajii/Opetusteknologiapaiva/blob/main/esitykset/04_training4/Slide1.JPG",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/04_training4/Slide1.JPG",
       "skipAfter": 0
     },
     {
       "name": "train4_2",
-      "imageUrl": "https://github.com/kapelajii/Opetusteknologiapaiva/blob/main/esitykset/04_training4/Slide2.JPG",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/04_training4/Slide2.JPG",
       "skipAfter": 0
     },
     {
       "name": "train4_3",
-      "imageUrl": "https://github.com/kapelajii/Opetusteknologiapaiva/blob/main/esitykset/04_training4/Slide3.JPG",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/04_training4/Slide3.JPG",
       "skipAfter": 0
     },
     {
       "name": "train4_4",
-      "imageUrl": "https://github.com/kapelajii/Opetusteknologiapaiva/blob/main/esitykset/04_training4/Slide4.JPG",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/04_training4/Slide4.JPG",
       "skipAfter": 0
     },
     {
       "name": "train4_5",
-      "imageUrl": "https://github.com/kapelajii/Opetusteknologiapaiva/blob/main/esitykset/04_training4/Slide5.JPG",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/04_training4/Slide5.JPG",
       "skipAfter": 0
     },
     {
       "name": "train4_6",
-      "imageUrl": "https://github.com/kapelajii/Opetusteknologiapaiva/blob/main/esitykset/04_training4/Slide6.JPG",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/04_training4/Slide6.JPG",
       "skipAfter": 0
     },
     {
       "name": "train4_7",
-      "imageUrl": "https://github.com/kapelajii/Opetusteknologiapaiva/blob/main/esitykset/04_training4/Slide7.JPG",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/04_training4/Slide7.JPG",
       "skipAfter": 0
     },
     {
       "name": "train4_8",
-      "imageUrl": "https://github.com/kapelajii/Opetusteknologiapaiva/blob/main/esitykset/04_training4/Slide8.JPG",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/04_training4/Slide8.JPG",
       "skipAfter": 0
     },
     {
       "name": "train4_9",
-      "imageUrl": "https://github.com/kapelajii/Opetusteknologiapaiva/blob/main/esitykset/04_training4/Slide9.JPG",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/04_training4/Slide9.JPG",
       "skipAfter": 0
     }
-  ]
+  ],
+  "configId": "grown-shown"
 }

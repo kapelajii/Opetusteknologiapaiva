@@ -9,7 +9,7 @@
 | 01- Prima Power           | plain-eye                 |
 | 02- Elisa                 | substance-went            |
 | 03- Tivia                 | shore-wonderful           |
-| 04- Training4             | grown-shown               |
+| 04- Training4             | ahead-is                  |
 | 05- Lauhanen              | syllable-shoot            |
 | 06- Mercuria              | fly-forest                |
 | 07- Virtuaalikorjaamo     | puuttuu                   |
