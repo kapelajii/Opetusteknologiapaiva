@@ -1,0 +1,58 @@
+{
+  "loopMediaList": false,
+  "startMethod": "autostart-beginning",
+  "controlMediaPlayer": "elevated",
+  "configureMediaPlayer": "elevated",
+  "mediaList": [
+    {
+      "name": "sedu_1",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/08_virtuaalikorjaamo/Slide1.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "sedu_2",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/08_virtuaalikorjaamo/Slide2.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "sedu_3",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/08_virtuaalikorjaamo/Slide3.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "sedu_4",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/08_virtuaalikorjaamo/Slide4.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "sedu_5",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/08_virtuaalikorjaamo/Slide5.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "sedu_6",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/08_virtuaalikorjaamo/Slide6.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "sedu_7",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/08_virtuaalikorjaamo/Slide7.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "sedu_8",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/08_virtuaalikorjaamo/Slide8.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "sedu_9",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/08_virtuaalikorjaamo/Slide9.JPG",
+      "skipAfter": 0
+    },
+    {
+      "name": "sedu_10",
+      "imageUrl": "https://raw.githubusercontent.com/kapelajii/Opetusteknologiapaiva/main/esitykset/08_virtuaalikorjaamo/Slide10.JPG",
+      "skipAfter": 0
+    }
+  ]
+}
